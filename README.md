@@ -46,3 +46,12 @@ SLA (Service Level Agreement) é um acordo de nível de serviço entre o provedo
 | **Azure Kubernetes Service**    | 99,95%    | ~21min            | ~4h 22min        |
 | **Load Balancer**               | 99,99%    | ~4min 23s         | ~52min 34s       |
 | **Azure AD (Autenticação)**     | 99,9%     | ~43min            | ~8h 45min        |
+
+
+## 🔹 Comparação entre IaaS, PaaS e SaaS
+
+| Modelo | O que é? | O que o cliente gerencia | Exemplos |
+|--------|----------|---------------------------|----------|
+| **IaaS** (Infrastructure as a Service) | Infraestrutura como serviço: provedor entrega servidores, rede e armazenamento. | SO, aplicações, dados, runtime. | Azure VM, AWS EC2, Google Compute Engine |
+| **PaaS** (Platform as a Service) | Plataforma como serviço: provedor entrega ambiente completo para desenvolvimento. | Apenas o código e dados da aplicação. | Azure App Service, Google App Engine, Heroku |
+| **SaaS** (Software as a Service) | Software como serviço: usuário consome a aplicação pronta pela internet. | Nada, só usa o software. | Office 365, Google Workspace, Salesforce |
